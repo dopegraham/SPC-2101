@@ -1,3 +1,7 @@
+/*
+NAME:Graham wafula
+REG NO:PA106/G/28759/25
+ */   
 #include <stdio.h>
 
 int main() {
@@ -50,4 +54,5 @@ int main() {
     printf("Total rooms in all branches: %d\n", totalOccupied + totalVacant);
 
     return 0;
+
 }
