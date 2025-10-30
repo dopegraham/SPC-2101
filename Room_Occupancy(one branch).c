@@ -1,3 +1,7 @@
+/*
+ NAME:Graham wafula
+REG NO:PA106/G/28759/25
+ */
 #include <stdio.h>
 
 int main() {
@@ -31,4 +35,5 @@ int main() {
     }
 
     return 0;
+
 }
