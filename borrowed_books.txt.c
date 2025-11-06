@@ -1,3 +1,7 @@
+/*
+NAME:Graham wafula
+REG NO:PA106/G/28759/25
+*/
 #include <stdio.h>
 
 int main(){
@@ -14,4 +18,5 @@ fprintf(fptr,"Book title: %s \n",title);
 printf("Title successfully stored");
 fclose(fptr);	
 	return 0;
+
 }
